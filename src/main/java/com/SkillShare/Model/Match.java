@@ -51,6 +51,4 @@ public class Match {
         this.user2 = user2;
         this.matchedSkill = matchedSkill;
     }
-
-   
 }
